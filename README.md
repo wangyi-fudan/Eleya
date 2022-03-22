@@ -47,10 +47,6 @@ The training corpus is 136 GB PubMed abstracts + PMC full text.
 
 I estimate that the power of Eleya should be similar to that of GPT-2.
 
-# Why not open source it?
-
-It takes me a whole year to develop Eleya day and night. Technically it is more advanced than Google etc. I want to keep the technology right now. I share the software because I feel lonely.
-
 # Dr. Wang Yi 王一
 
 School of Life Sciences, Fudan University
