@@ -1,5 +1,5 @@
 # Eleya
-Artificial Intelligence That Generate Novel Biomedical Text
+Artificial Intelligence That Generate Novel **Biomedical** Text
 
 ![Eleya](Eleya.jpg)
   
