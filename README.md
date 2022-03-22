@@ -35,12 +35,6 @@ Eleya: 64-bit Linux systems.
 
 The training is in progress and may not stop for a long period. The long term goal of BPC is around 0.830.
 
-Lastest weight: **20220322** BPC=0.908
-
-链接: https://pan.baidu.com/s/1AN8Oc-fig1YufVCBWuQt6g  
-
-密码: na8b
-
 # The algorithm behind Eleya
 
 Eleya is based on an improved GPT-like character-level transformer architecture. 
