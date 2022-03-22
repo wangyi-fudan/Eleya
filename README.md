@@ -33,7 +33,11 @@ Eleya: 64-bit Linux systems.
 
 # Download Links
 
-Lastest weight: **20220322 BPC=0.9225**
+Lastest weight: **20220322** BPC=0.9225
+
+链接: https://pan.baidu.com/s/1AN8Oc-fig1YufVCBWuQt6g  
+
+密码: na8b
 
 # Dr. Wang Yi (王一)
 
