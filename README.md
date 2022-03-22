@@ -39,11 +39,19 @@ Lastest weight: **20220322** BPC=0.9225
 
 密码: na8b
 
+# The algorithm behind Eleya
+
+Eleya is based on an improved GPT-like character-level transformer architecture. 
+
+It has 31 transformer blocks and 864 embeding dimensions with 1024 byte context and has 250M weights.
+
+It is coded by cuda C++ from scratch using my own tiny deep learning framework and was trained on an A100 GPU for 41 days now.
+
 # Dr. Wang Yi (王一)
 
 School of Life Sciences, Fudan University
 
-Jan 19, 2022
+Mar 22, 2022
 
 godspeed_china@yeah.net
 
