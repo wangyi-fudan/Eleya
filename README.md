@@ -51,7 +51,7 @@ It is coded by cuda C++ from scratch using my own tiny deep learning framework a
 
 I estimate that the power of Eleya should be similar to that of GPT-2.
 
-# Dr. Wang Yi (王一)
+# Dr. Wang Yi 王一
 
 School of Life Sciences, Fudan University
 
