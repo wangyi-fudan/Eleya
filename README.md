@@ -1,7 +1,7 @@
 # Eleya
 Artificial Intelligence That Generate Novel Biomedical Text
 
-![Eleya](EleyaBase64)
+![Eleya][EleyaBase64]
   
 # User Agreement:
 
