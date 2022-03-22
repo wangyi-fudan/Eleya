@@ -45,7 +45,7 @@ Lastest weight: **20220322** BPC=0.908
 
 Eleya is based on an improved GPT-like character-level transformer architecture. 
 
-It has 31 transformer blocks and 864 embeding dimensions with 1024 byte context and has 250M weights.
+It has 31 transformer blocks and 864 embeding dimensions with 1024 byte context and has 294M weights.
 
 It is coded by cuda C++ from scratch using my own tiny deep learning framework and was trained on an A100 GPU for 41 days now.
 
