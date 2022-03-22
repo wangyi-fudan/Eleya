@@ -33,6 +33,8 @@ Eleya: 64-bit Linux systems.
 
 # Download Links
 
+The training is in progress and may not stop for a long period.
+
 Lastest weight: **20220322** BPC=0.9225
 
 链接: https://pan.baidu.com/s/1AN8Oc-fig1YufVCBWuQt6g  
