@@ -31,9 +31,12 @@ Eleya: 64-bit Linux systems.
 
 4: You can stop at any time by closing the window.
 
+# Performance
+
+The performance of Eleya is 0.9034 BPC.
+
 # Download Links
 
-The training is in progress and may not stop for a long period. The long term goal of BPC is around 0.830.
 
 # Dr. Wang Yi 王一
 
