@@ -23,13 +23,13 @@ Eleya: 64-bit Linux systems.
 
 # How to use Eleya
 
-1: Open a console.
+1: Edit "input.txt" by providing a context.
 
-2: Enter ./Eleya "Lung cancer is the most common".
+2: Double click "Eleya.exe" under windows OR "./Eleya" under Linux.
 
-3: The algorithm will continue the text in quotation marks.
+3: The algorithm will continue your context and write to "output.html".
 
-4: You can dump the output into a file by using ">".
+4: You can stop at any time by closing the window.
 
 # Download Links
 
