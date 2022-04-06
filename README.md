@@ -33,13 +33,13 @@ Eleya: 64-bit Linux systems.
 
 # Performance
 
-The performance of Eleya is 0.9034 BPC.
+The performance of Eleya is 0.8936 BPC.
 
 # Download Links
 
-Link: https://pan.baidu.com/s/15Vv-tCrvIS7xXprvcMRfXw  
+Link: https://pan.baidu.com/s/1or3IbWsRujLlUmY2DaolIA  
 
-Pass: 38cj
+Pass: nr8u
 
 # Dr. Wang Yi 王一
 
