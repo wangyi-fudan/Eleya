@@ -37,9 +37,9 @@ The performance of Eleya is 0.8873 BPC.
 
 # Download Links
 
-Link: https://pan.baidu.com/s/1Za_KdA4DRfhejo9w3LvvqQ  
+Link: https://pan.baidu.com/s/1Z1nAoiiLO_7HYLEKw1VN9g  
 
-Pass: ao91
+Pass: qwjh
 
 # Dr. Wang Yi 王一
 
